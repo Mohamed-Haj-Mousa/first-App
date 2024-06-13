@@ -7,3 +7,4 @@ abstract class Controller
     //
 }
 //php artisan make:controller UserController
+//php artisan make:controller UserController
