@@ -14,7 +14,7 @@ return [
     | specified when running a cache operation inside the application.
     |
     */
-
+//$defaultCacheStore =
     'default' => env('CACHE_STORE', 'database'),
 
     /*
